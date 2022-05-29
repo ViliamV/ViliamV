@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliamV&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=ViliamV)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViliamV&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **ViliamV/ViliamV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
